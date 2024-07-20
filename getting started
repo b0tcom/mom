@@ -1,0 +1,1 @@
+pip install pennylane pennylane-qiskit numpy tensorflow opencv-python-headless pyautogui
